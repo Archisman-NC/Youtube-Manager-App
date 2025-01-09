@@ -8,3 +8,7 @@ A command-line tool built in Python for managing YouTube video records. It allow
 - Delete videos
 
 Video records are saved in a `youtube.txt` file for persistent storage.
+
+## Requirements
+
+- Python **3.10** or higher
