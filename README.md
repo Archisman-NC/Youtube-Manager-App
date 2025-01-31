@@ -12,3 +12,4 @@ Video records are saved in a `youtube.txt` file for persistent storage.
 ## Requirements
 
 - Python **3.10** or higher
+...
